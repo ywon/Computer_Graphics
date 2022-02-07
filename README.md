@@ -9,7 +9,9 @@ referred to the book 'Rendering' by https://sgvr.kaist.ac.kr/~sungeui/render/
    
 2. BVH_ray_tracing
    
-   : referred to 'Ray Tracing : The Next Week'
+   : compare the computing time when BVH is applied and not.
+   
+   referred to 'Ray Tracing : The Next Week'
    
    https://raytracing.github.io/books/RayTracingTheNextWeek.html#boundingvolumehierarchies
  
